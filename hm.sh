@@ -1,0 +1,1 @@
+mvn gwt:debug -Dgwt.extraJvmArgs="-Xmx2048M -XX:+UseConcMarkSweepGC -XX:+CMSClassUnloadingEnabled"

@@ -1,0 +1,18 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui" xmlns:c="urn:import:com.google.gwt.canvas.client">
+	<ui:style>
+		
+	</ui:style>
+	<g:HTMLPanel height="820px" width="800px">
+		<g:SimplePanel width = "800px" height="800px" ui:field="canvasPlaceholder"/>
+		<g:HorizontalPanel borderWidth="2" height="20px" horizontalAlignment="ALIGN_RIGHT" width="20px">
+			<g:PushButton text="&lt;" height="18px" ui:field="decreaseButton" width="10px"/>
+			<g:Cell horizontalAlignment="ALIGN_RIGHT">
+				<g:IntegerBox height="18px" width="18px" ui:field="levelField" readOnly="true" value="1" alignment="RIGHT"/>
+			</g:Cell>
+			<g:PushButton text="&gt;" height="18px" ui:field="increaseButton" width="10px"/>
+			<g:PushButton text="Calculate" width="59px" height="18px" ui:field="calculateButton"/>
+		</g:HorizontalPanel>
+	</g:HTMLPanel>
+</ui:UiBinder> 
