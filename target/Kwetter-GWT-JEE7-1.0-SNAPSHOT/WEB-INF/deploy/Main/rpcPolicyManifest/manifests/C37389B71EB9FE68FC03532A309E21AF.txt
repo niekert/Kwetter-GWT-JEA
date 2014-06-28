@@ -1,2 +1,0 @@
-serviceClass: nl.fontys.fhict.jea.gwt.jee7.shared.bus.impl.gwt.BusService
-path: E0B51D6431D99D241FD40B565C9CA48F.gwt.rpc

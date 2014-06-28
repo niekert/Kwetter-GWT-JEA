@@ -1,2 +1,0 @@
-serviceClass: nl.fontys.fhict.jea.gwt.jee7.client.user.UserService
-path: A6DFBB1367284C894E221296FEDCE0F9.gwt.rpc
