@@ -1,0 +1,2 @@
+serviceClass: nl.fontys.fhict.jea.gwt.jee7.shared.tweet.TweetService
+path: 5EA9DE3F9FA414B26E1C437D22C68702.gwt.rpc

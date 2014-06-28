@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="Kwetter-GWT-JEE7:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="Kwetter-GWT-JEE7-1.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="Kwetter-GWT-JEE7:war exploded" />
-    </root>
-  </artifact>
-</component>
